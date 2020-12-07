@@ -3,6 +3,7 @@ package konyukhov.iu;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+	// one two three
+        int a;
     }
 }
